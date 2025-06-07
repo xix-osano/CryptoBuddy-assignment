@@ -1,4 +1,4 @@
-#*OVERVIEW*
+# *OVERVIEW*
 * Cryptobuddy is an interactive chatbot designed to assist users in navigating the complex cryptocurrency landscape. By providing insights on trending cryptocurrencies, ecofriendly options and long-term investment advice, it empowers users to make informed decisions.
 
 ### Programming Language : *Python*
